@@ -1,0 +1,21 @@
+{
+  "name": "flexbox-demo",
+  "version": "1.0.0",
+  "description": "A demo project to showcase Flexbox layout techniques.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "html",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
